@@ -1,0 +1,9 @@
+Ingredients:
+-eggs
+-butter
+-salt
+
+Directions:
+ 1. Preheat the butter on a pan.
+ 2. Put on the eggs.
+ 3. Add salt.
